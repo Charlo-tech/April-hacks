@@ -24,6 +24,9 @@ AVIATION_STACKS_API=''
 
 ## Images
 The following are sample images of the tool in action.
+![Screenshot (390)](https://github.com/user-attachments/assets/d22eb18a-cc64-4b59-a1a5-52c5b6a4ebb9)
+![Screenshot (391)](https://github.com/user-attachments/assets/00ff14d5-9c31-4ce0-8290-9affc7a59dc3)
+
 
 ## License
 
